@@ -1,7 +1,7 @@
 # LarsVoorderhaak
 
-
-/*  
+Arduino Bleutooth Lego Truck 
+ 
  *   Thank you for loading this code.
  *   This program shown how to control a H-brige L9110s with bluetooth control.
  *   The code i wrote is driving a lego stepper motor, you can use 1 stepper or 2 dc motors with this code. 
@@ -13,4 +13,4 @@
  *   You can change the Digital outputs on your Arduino.
  *   
  *   © LARS VOORDERHAAK / DJQUICKLAND1982@GMAIL.COM
- */
+ 
